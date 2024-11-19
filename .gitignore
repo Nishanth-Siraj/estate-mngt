@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.env
+venv
+staticfiles/
+.envs/*
+# means , even though .envs is ignored, .env.example must be added , ! meaning is this. 
+!.envs/.env.example
